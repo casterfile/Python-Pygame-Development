@@ -1,14 +1,13 @@
-# Python Kivy Development
+# Python Pygame Development
 Developer: Anthony A. Castor
 
 This Source does not give any warranty please use at your own risk </br>
 
-Python Kivy Development ... :D </br>
+Python Pygame Development ... :D </br>
 
 This application is free of virus or malware </br>
 
 <h3>Software Requirment </h3>
-Kivy<br/>
 Python 2.7<br/>
 Pygame<br/>
 
